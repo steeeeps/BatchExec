@@ -1,0 +1,12 @@
+
+PsExec v2.11 - Execute processes remotely
+Copyright (C) 2001-2014 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+句柄无效。
+Connecting to 127.0.0.1...
+
+
+Couldn't access 127.0.0.1:
+Connecting to 127.0.0.1...
+
